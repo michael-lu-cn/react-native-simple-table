@@ -111,9 +111,9 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center'
   },
-  dataView: {
-    flexGrow: 1,
-  },
+  //dataView: {
+  //  flexGrow: 1,
+  //},
   dataViewContent: {
   },
   row: {
